@@ -3,7 +3,7 @@
 Automated login test suite for [saucedemo.com](https://www.saucedemo.com) 
 built with Playwright and pytest.
 
-![Tests](https://github.com/The1Paladin/sauce-demo-tests/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/ElanLeonard/sauce-demo-tests/actions/workflows/tests.yml/badge.svg)
 
 ## What This Tests
 - Valid login

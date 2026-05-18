@@ -15,5 +15,5 @@ class LoginPage:
     def get_error_message(self):
         return self.page.locator(".error-message-container").inner_text()
     
-    def get_product_class(self):
+    def get_page_title(self):
         return self.page.locator(".title").inner_text()
